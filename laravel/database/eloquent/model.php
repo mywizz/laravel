@@ -2,7 +2,7 @@
 
 use Laravel\Str;
 use Laravel\Inflector;
-use Laravel\Paginator;
+use Paginator;
 use Laravel\Database\Manager as DB;
 
 abstract class Model {
